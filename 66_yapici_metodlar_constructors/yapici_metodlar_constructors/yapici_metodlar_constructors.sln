@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yapici_metodlar_constructors", "yapici_metodlar_constructors.csproj", "{BF94CD06-AD06-43D3-B094-0C35B4C4802B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF94CD06-AD06-43D3-B094-0C35B4C4802B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF94CD06-AD06-43D3-B094-0C35B4C4802B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF94CD06-AD06-43D3-B094-0C35B4C4802B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF94CD06-AD06-43D3-B094-0C35B4C4802B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C60004-7B28-4353-A1C6-F5E1C544260D}
+	EndGlobalSection
+EndGlobal
